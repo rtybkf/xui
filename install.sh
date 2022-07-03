@@ -180,11 +180,12 @@ download_xui(){
 info_bar(){
     clear
     echo "#############################################################"
-    echo -e "#                   ${RED}Misaka x-ui 魔改优化版${PLAIN}                  #"
+    echo -e "#                    ${RED} WARP  一键安装脚本${PLAIN}                    #"
     echo -e "# ${GREEN}作者${PLAIN}: vaxilu, FranzKafkaYu, Misaka No                     #"
     echo -e "# ${GREEN}博客${PLAIN}: https://owo.misaka.rest                             #"
     echo -e "# ${GREEN}论坛${PLAIN}: https://vpsgo.co                                    #"
-    echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/misakanetcn                            #"
+    echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/misakablog_group                       #"
+    echo -e "# ${GREEN}TG频道${PLAIN}: https://t.me/misakablog_channnel                  #"
     echo "#############################################################"
     echo ""
     echo -e "系统: ${GREEN} ${CMD} ${PLAIN}"
