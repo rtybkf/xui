@@ -185,7 +185,7 @@ info_bar(){
     echo -e "# ${GREEN}博客${PLAIN}: https://owo.misaka.rest                             #"
     echo -e "# ${GREEN}论坛${PLAIN}: https://vpsgo.co                                    #"
     echo -e "# ${GREEN}TG群${PLAIN}: https://t.me/misakablog_group                       #"
-    echo -e "# ${GREEN}TG频道${PLAIN}: https://t.me/misakablog_channnel                  #"
+    echo -e "# ${GREEN}TG频道${PLAIN}: https://t.me/misakablog_channel                   #"
     echo "#############################################################"
     echo ""
     echo -e "系统: ${GREEN} ${CMD} ${PLAIN}"
